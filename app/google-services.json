@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "3080403526",
+    "firebase_url": "https://prm392final-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "prm392final",
+    "storage_bucket": "prm392final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3080403526:android:c18f372ca4949802ae2847",
+        "android_client_info": {
+          "package_name": "com.example.project_final_392"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPpx46nh0MRBZlea_0-Jc4ket5tl3Z2ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
