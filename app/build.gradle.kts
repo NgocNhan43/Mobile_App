@@ -45,6 +45,7 @@ dependencies {
     implementation(libs.firebase.database)
     implementation("com.google.code.gson:gson:2.9.1")
     implementation("com.github.bumptech.glide:glide:4.12.0")
+    implementation(libs.firebase.auth)
     annotationProcessor("com.github.bumptech.glide:compiler:4.12.0")
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)

@@ -6,5 +6,8 @@
     <color name="lightGrey">#EFEFEF</color>
     <color name="grey">#d2d2d2</color>
     <color name="darkGrey">#616161</color>
-
+    <color name="blue">#03A9F4</color>
+    <color name="dark_Green">#006400</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="purple_700">#FF3700B3</color>
 </resources>

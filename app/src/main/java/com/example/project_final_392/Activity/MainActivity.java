@@ -41,8 +41,18 @@ public class MainActivity extends BaseActivity {
     }
 
     private void bottomNavigation() {
-        binding.CartBtn.setOnClickListener(view -> {
-            startActivity(new Intent(MainActivity.this, CartActivity.class));
+        binding.CartBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                MainActivity.this.startActivity(new Intent(MainActivity.this, CartActivity.class));
+            }
+        });
+
+        binding.ProfileBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                MainActivity.this.startActivity(new Intent(MainActivity.this, UserProfileActivity.class));
+            }
         });
     }
 

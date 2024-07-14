@@ -7,8 +7,12 @@
 
     <style name="Theme.Project_Final_392" parent="Base.Theme.Project_Final_392">
         <item name="android:windowTranslucentNavigation">true
-
         </item>
+
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+
+
     </style>
 
     <style name="tab_layout">
